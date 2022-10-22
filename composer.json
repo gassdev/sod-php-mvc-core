@@ -1,15 +1,15 @@
 {
-    "name": "sod/php-mvc-core",
-    "autoload": {
-        "psr-4": {
-            "Sod\\PhpMvcCore\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "gassdev",
-            "email": "gassdev@gmail.com"
-        }
-    ],
-    "require": {}
+  "name": "sod/php-mvc-core",
+  "autoload": {
+    "psr-4": {
+      "Sod\\PhpMvcCore\\": "."
+    }
+  },
+  "authors": [
+    {
+      "name": "gassdev",
+      "email": "gassdev@gmail.com"
+    }
+  ],
+  "require": {}
 }

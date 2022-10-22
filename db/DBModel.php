@@ -1,8 +1,8 @@
 <?php
-namespace app\core\db;
+namespace Sod\PhpMvcCore\db;
 
 use app\models\Model;
-use app\core\Application;
+use Sod\PhpMvcCore\Application;
 
 /**
  * DBModel

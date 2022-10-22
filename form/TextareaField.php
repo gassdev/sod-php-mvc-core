@@ -1,7 +1,7 @@
 <?php
-namespace app\core\form;
+namespace Sod\PhpMvcCore\form;
 
-use app\core\form\BaseField;
+use Sod\PhpMvcCore\form\BaseField;
 
 /**
  * TextareaField

@@ -2,7 +2,7 @@
 namespace app\core;
 
 use app\controllers\Controller;
-use app\core\exception\NotFoundException;
+use Sod\PhpMvcCore\exception\NotFoundException;
 
 /**
  * Router

@@ -1,5 +1,5 @@
 <?php
-namespace app\core\form;
+namespace Sod\PhpMvcCore\form;
 
 use app\models\Model;
 

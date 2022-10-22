@@ -1,8 +1,8 @@
 <?php
-namespace app\core\db;
+namespace Sod\PhpMvcCore\db;
 
 use PDO;
-use app\core\Application;
+use Sod\PhpMvcCore\Application;
 
 /**
  * Database

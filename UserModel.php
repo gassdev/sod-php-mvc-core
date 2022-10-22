@@ -1,7 +1,7 @@
 <?php
 namespace app\core;
 
-use app\core\db\DBModel;
+use Sod\PhpMvcCore\db\DBModel;
 
 /**
  * UserModel

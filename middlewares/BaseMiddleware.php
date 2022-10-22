@@ -1,5 +1,5 @@
 <?php
-namespace app\core\middlewares;
+namespace Sod\PhpMvcCore\middlewares;
 
 /**
  * BaseMiddleware

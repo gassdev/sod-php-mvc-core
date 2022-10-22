@@ -1,8 +1,8 @@
 <?php
-namespace app\core\middlewares;
+namespace Sod\PhpMvcCore\middlewares;
 
-use app\core\Application;
-use app\core\exception\ForbiddenException;
+use Sod\PhpMvcCore\Application;
+use Sod\PhpMvcCore\exception\ForbiddenException;
 
 /**
  * AuthMiddleware
