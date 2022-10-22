@@ -1,5 +1,5 @@
 <?php
-namespace app\core;
+namespace Sod\PhpMvcCore;
 
 use Sod\PhpMvcCore\db\DBModel;
 

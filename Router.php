@@ -1,5 +1,5 @@
 <?php
-namespace app\core;
+namespace Sod\PhpMvcCore;
 
 use app\controllers\Controller;
 use Sod\PhpMvcCore\exception\NotFoundException;
